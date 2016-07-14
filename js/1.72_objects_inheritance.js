@@ -1,3 +1,5 @@
+// Object Inheritance
+
 function diamondRank (perms, chat, level) {
 	this.permissions = perms;
 	this.chatColor = chat;

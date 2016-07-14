@@ -1,4 +1,4 @@
-//Arrays
+// Arrays
 
 var cookies = [
 	"Chocolate Chip",  	//0

@@ -1,4 +1,4 @@
-//Object Methods
+// Object Methods
 
 var bike = {
 	//Properties

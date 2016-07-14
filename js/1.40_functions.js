@@ -1,3 +1,5 @@
+// Functions
+
 //Global Variables
 var myAge = 21;
 var favNum = 7;

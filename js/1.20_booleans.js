@@ -1,4 +1,5 @@
-//Booleans
+// Booleans
+
 //True and False Statements
 var myAge = 21;
 var paulsAge = 39;

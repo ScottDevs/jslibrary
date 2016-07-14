@@ -1,3 +1,5 @@
+// Integers
+
 //When the Variable myAge is used the answer will be equal to 21.
 var myAge = 21;
 var myDeath = 101;

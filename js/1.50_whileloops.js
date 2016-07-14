@@ -1,4 +1,5 @@
-//While Loop
+// While Loop
+
 //Make a variable called: roomCapacity
 //A room can hold up to 50 people.
 var roomCapacity = 0; //Starting point is 0.

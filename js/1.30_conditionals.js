@@ -1,3 +1,5 @@
+// Conditionals
+
 var relationShipStatus = "single"; 
 //Variable has quotes due to it bein a string
 if (relationShipStatus == "single") { //If gender equals male say below.

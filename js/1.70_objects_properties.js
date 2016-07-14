@@ -1,4 +1,4 @@
-//Object Properties
+// Object Properties
 
 var bike = {
 	//Properties

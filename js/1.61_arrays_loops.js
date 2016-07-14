@@ -1,3 +1,5 @@
+// Looping Through Loops
+
 var cookies = [
 	"Chocolate Chip,",  	//0
 	" M&M,",				//1
