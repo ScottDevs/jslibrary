@@ -16,3 +16,4 @@ console.log(myBirthDay);
 //Can do same with any math
 console.log(myBirthDay + myAge);
 console.log("My birthday is in July which is the ", + myBirthMonth + "th month of the year." )
+
