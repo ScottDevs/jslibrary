@@ -12,8 +12,8 @@ console.log(myFavNum);
 console.log(myBirthMonth);
 console.log(myBirthDay);
 
-//Adds two variables together
-//Can do same with any math
+//Adds two variables together.
+//Can do same with any math.
 console.log(myBirthDay + myAge);
 console.log("My birthday is in July which is the ", + myBirthMonth + "th month of the year." )
 
