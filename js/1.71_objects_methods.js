@@ -1,4 +1,4 @@
-//Object Properties
+//Object Methods
 
 var bike = {
 	//Properties
@@ -8,14 +8,13 @@ var bike = {
 	wheelSize   	: "XL",
 	bikeInfo			: {
 		bikeInfoStuff	: [
-		//Methods
 		{speed : "Fast ", weight : "Fifteen Pounds"}, //0
 		{speed : "Medium ", weight : "Ten Pounds"}, //1
 		{speed : "Slow ", weight : "Five Pounds"} //2
 
 		]
 	}
-	
+	//Methods
 };
 
 console.log(bike); //Calls the bike properties
